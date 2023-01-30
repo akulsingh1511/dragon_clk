@@ -1,0 +1,30 @@
+html {
+   
+  font-size: 20px;
+}
+
+body {
+  
+  font-family: 'Roboto','Helvetica Neue', Arial, sans-serif;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  text-align: center;
+  color: #333;
+  margin: 0;
+  background-color: blueviolet;
+}
+
+h1 {
+  font-size: 4rem;
+  margin-bottom: 0;
+}
+
+.btnClick{
+  height:200px;
+  width:200px;
+}
+.sizeE{
+  height:400px;
+  width:400px;
+
+}
